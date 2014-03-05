@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'ldap_server'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_ldapserver">LDAP server</label>
+			<label index="tx_ldapserver.servername">Servername</label>
+			<label index="tx_ldapserver.servertype.I.0">Active Directory</label>
+			<label index="tx_ldapserver.servertype.I.1">NT server</label>
+			<label index="tx_ldapserver.servertype.I.2">Novell eDirectory</label>
+			<label index="tx_ldapserver.servertype.I.3">x500 (OpenLDAP ...)</label>
+			<label index="tx_ldapserver.servertype">Servertype</label>
+			<label index="tx_ldapserver.basedn">Base DN</label>
+			<label index="tx_ldapserver.filter_person">Filter for persons</label>
+			<label index="tx_ldapserver.username">Username</label>
+			<label index="tx_ldapserver.password">Password</label>
+			<label index="tx_ldapserver.be">Enable for backend authentification</label>
+			<label index="tx_ldapserver.config">Configuration</label>
+			<label index="tx_ldapserver.domain">Domain</label>
+			<label index="tx_ldapserver.protocol">LDAP protocol version</label>
+			<label index="tx_ldapserver.charset">Charset</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_ldapserver">LDAP Server</label>
+			<label index="tx_ldapserver.servername">Servername</label>
+			<label index="tx_ldapserver.servertype.I.0">Active Directory</label>
+			<label index="tx_ldapserver.servertype.I.1">NT server</label>
+			<label index="tx_ldapserver.servertype.I.2">Novell eDirectory</label>
+			<label index="tx_ldapserver.servertype.I.3">x500 (OpenLDAP ...)</label>
+			<label index="tx_ldapserver.servertype">Servertyp</label>
+			<label index="tx_ldapserver.basedn">Base DN</label>
+			<label index="tx_ldapserver.filter_person">Filter für Personen</label>
+			<label index="tx_ldapserver.username">Benutzername</label>
+			<label index="tx_ldapserver.password">Passwort</label>
+			<label index="tx_ldapserver.be">Für Backend Authentifizierung verwenden</label>
+			<label index="tx_ldapserver.config">Konfiguration</label>
+			<label index="tx_ldapserver.domain">Domain</label>
+			<label index="tx_ldapserver.protocol">LDAP Protokoll Version</label>
+			<label index="tx_ldapserver.charset">Character Set</label>
+		</languageKey>
+	</data>
+</T3locallang>
